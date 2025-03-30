@@ -1,0 +1,14 @@
+# Why This Project?
+
+Hi, I'm **Yash Ogale**, a sophomore at **VJTI Mumbai, India**, with a passion for both technology and creative expression. While my background is in Artificial Intelligence, Machine Learning, and software development, I’ve always been drawn to the ways technology can enhance human creativity rather than replace it. This project excites me because it sits at the crossroads of structured logic and fluid artistic expression—an intersection I find both challenging and inspiring.
+
+I have always been fascinated by movement—how it conveys emotions, tells stories, and exists beyond just music. Dance, in particular, is such a rich and expressive form of communication, yet most AI-generated choreography focuses on pattern recognition rather than artistic intent. I want to explore how AI can complement the creative process, not just predict movement but understand its deeper meaning. This project aligns perfectly with that curiosity, offering a chance to work with multimodal representations of dance and push beyond the usual boundaries of AI-generated choreography.
+
+Beyond my technical experience, I’ve always enjoyed creative problem-solving, whether it’s designing a project, working on visual storytelling, or experimenting with generative models for artistic applications. While I may not be a trained dancer, I appreciate the way movement interacts with space, rhythm, and even words. Exploring how different forms of input—text, sound, visual art—can influence dance and movement is something I’d love to be a part of.
+
+In terms of collaboration, I enjoy working both independently and in teams, depending on the nature of the task. I like structured discussions but also value flexibility in brainstorming ideas. I find asynchronous communication (such as detailed written discussions over email or Slack) helpful for technical work but also appreciate real-time discussions when working through complex ideas. Most importantly, I love learning from people with different perspectives, especially artists who approach problems in ways that engineers might not consider.
+
+One idea I’d be excited to explore is using AI not just to generate movement, but to respond to it in real time—creating an interactive system where a dancer’s movements influence the AI’s response dynamically. Another intriguing possibility is mapping different art forms (such as poetry or painting) into motion, using AI to explore how abstract ideas can be expressed through movement.
+
+Overall, I’m excited about the opportunity to contribute to this project, learning from both the technical and artistic aspects of it. I believe AI should serve as a tool for human creativity rather than a replacement, and I look forward to working on something that celebrates both the precision of technology and the beauty of artistic expression.
+
