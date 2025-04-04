@@ -87,12 +87,12 @@ the rows indicate the number of joints, the coloumns represent timeframes, and s
 
   
   </p>
-- **Understanding the Human Skeleton:** I then gained a clear understanding of the human structure and manually labeled the joints, identifying which points correspond to each body part. This helped in structuring a meaningful skeleton.
+- Understanding the Human Skeleton: I then gained a clear understanding of the human structure and manually labeled the joints, identifying which points correspond to each body part. This helped in structuring a meaningful skeleton.
 - <p align="center">
   <img src="images\image2.png" width="100%"/>
   
   </p>
-- **Connecting Joints:** After identifying key points, created a set of joint connections to represent the human skeleton properly.
+- Connecting Joints: After identifying key points, created a set of joint connections to represent the human skeleton properly.
 - <p align="center">
   <img src="images\gif3.gif" width="70%"/>
   
